@@ -1,0 +1,10 @@
+# Backend-specific ignores (root .gitignore already covers most common files)
+node_modules/
+logs
+*.log
+coverage/
+.env
+.env.*
+!.env.example
+
+
